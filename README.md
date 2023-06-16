@@ -6,13 +6,13 @@ This demo uses Python to interact with the Echo3D API. It access all 3d models i
 
 ## Requirements
 
-* `Python 3.8.17`
+* `Python 3.8.16`
 * `vedo`
 * `pyrender`
 
 ## Instructions for package installation
 
-1. Download and install Python 3.8.17 from https://www.python.org/. By default, pip (a Python package installation tool) should also come with it.
+1. Download and install Python 3.8.16 from https://www.python.org/downloads/release/python-3816/. By default, pip (a Python package installation tool) should also come with it.
 
 2. Run the following commands:
    
@@ -35,7 +35,7 @@ This demo uses Python to interact with the Echo3D API. It access all 3d models i
 
 2. Clone this repo.
 
-3. Open a terminal and `cd` to this repo. Make sure that Python 3.8.17 is properly installed by running the command `python --version`. You can also check if `vedo` and `pyrender` are installed by running the command `pip list`.
+3. Open a terminal and `cd` to this repo. Make sure that Python 3.8.16 is properly installed by running the command `python --version`. You can also check if `vedo` and `pyrender` are installed by running the command `pip list`.
 
 2. Run the command as follows:
    
